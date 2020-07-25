@@ -1,0 +1,10 @@
+ionic serve --lab - Roda o projeto no ambiente Lab
+ionic cordova platform add android - Gera as configuração para poder rodar no Android (gera config.xml)
+ionic cordova build android
+ionic run android
+ionic capacitor run android
+ionic cordova build android --verbose
+
+Gerar SDK no Android Studio:
+Após o App já estar ridando no Android Studio
+Build -> Build Bundles/APKs -> Build APK

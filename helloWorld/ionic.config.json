@@ -1,5 +1,9 @@
 {
   "name": "helloWorld",
-  "integrations": {},
-  "type": "ionic-angular"
+  "integrations": {
+    "cordova": {},
+    "capacitor": {}
+  },
+  "type": "ionic-angular",
+  "id": "aa06de5b"
 }
